@@ -1,0 +1,12 @@
+{
+  "name": "my-log-api",
+  "version": "1.0.0",
+  "description": "Simple generic log API for Vercel.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
